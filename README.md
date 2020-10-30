@@ -8,7 +8,7 @@
 </a>
 <br />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/55/d9/ef55d98e8bdb6e2b194b8022207d58a5.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="360" height="360" />
 
 **Who am I:**
 
