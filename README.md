@@ -1,5 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="320" height="320" />
+
 <a href="https://www.linkedin.com/in/malek-smida-ba58b9153/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -8,13 +10,11 @@
 </a>
 <br />
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="360" height="360" />
-
 **Who am I:**
 
-- Dynamic, motivated and methodical Software Engineer, who learned new techniques by solving problems and challenges.;
-- Addicted to Continuous improvement, Positivity and Self Development 🚀;
-- I believe in Team work, Hard work, Communication and Sharing 🙏;<br/>
+- Dynamic, motivated and methodical Software Engineer, who learned new techniques by solving problems and challenges.
+- Addicted to Continuous improvement, Positivity and Self Development 🚀
+- I believe in Team work, Hard work, Communication and Sharing 🙏<br/>
 
 📝[Online Portfolio](https://malek-smida.netlify.app/)
 
