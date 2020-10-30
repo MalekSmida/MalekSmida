@@ -8,15 +8,15 @@
 </a>
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/55/d9/ef55d98e8bdb6e2b194b8022207d58a5.gif" width="500" height="320" />
 
-#### Who am I
+**Who am I:**
 
-Dynamic, motivated and methodical Software Engineer, who learned new techniques by solving problems and challenges. <br/><br/>
-Addicted to Continuous improvement, Positivityand Self Development 🚀 <br/><br/>
-I believe in Team work, Hard work, Communication and Sharing 🙏 <br/><br/>
+- Dynamic, motivated and methodical Software Engineer, who learned new techniques by solving problems and challenges.;
+- Addicted to Continuous improvement, Positivity and Self Development 🚀;
+- I believe in Team work, Hard work, Communication and Sharing 🙏;<br/>
 
-📝[Online portoflio](https://malek-smida.netlify.app/)
+📝[Online Portfolio](https://malek-smida.netlify.app/)
 
 
 <!--
