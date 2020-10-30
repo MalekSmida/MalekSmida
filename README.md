@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="320" height="320" />
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="300" height="300" />
+<br/>
 <a href="https://www.linkedin.com/in/malek-smida-ba58b9153/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
