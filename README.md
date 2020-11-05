@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="280" height="280" />
-<br/><br/>
+
 <a href="https://www.linkedin.com/in/malek-smida-ba58b9153/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,8 +12,8 @@
 
 **Who am I:**
 
-- Self-motivated Software Engineer that design, develop, test and deploy web applications, with software development life-cycle management skills
-- I believe that Planning, Learning and Leadership are Habits not just skills you use during a project
+- Self-motivated Software Engineer that design, develop, test and deploy web applications, with software development life-cycle management skills 🎓
+- I believe that Planning, Learning and Leadership are Habits not just skills you use during a project ✨
 - Addicted to Continuous improvement, Positivity and Self Development 🚀<br/>
 
 📝[Online Portfolio](https://malek-smida.netlify.app/)
