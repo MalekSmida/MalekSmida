@@ -14,7 +14,8 @@
 
 - Self-motivated Software Engineer that design, develop, test and deploy web applications, with software development life-cycle management skills 🎓
 - I believe that Planning, Learning and Leadership are Habits not just skills you use during a project ✨
-- Addicted to Continuous improvement, Positivity and Self Development 🚀<br/>
+- Addicted to Continuous improvement, Positivity and Self Development 🚀
+- I’m currently learning React Native 🌱<br/>
 
 📝[Online Portfolio](https://malek-smida.netlify.app/)
 
