@@ -12,12 +12,13 @@
 
 **Who am I:**
 
-- Self-motivated Software Engineer that design, develop, test and deploy web applications, with software development life-cycle management skills 🎓
+- Self-motivated Software Engineer with software development life-cycle management skills 🎓
 - I believe that Planning, Learning and Leadership are Habits not just skills you use during a project ✨
 - Addicted to Continuous improvement and Positivity 🚀
-- I’m MERN stack/React Native developer and I am open learning new tech 🌱<br/>
+- I’m MERN stack/React Native developer and I am open to learn new tech 🌱<br/>
 
 📝[Online Portfolio](https://malek-smida.netlify.app/)
+📰[Blog](https://wanderer-blog.vercel.app/)
 
 
 <!--
