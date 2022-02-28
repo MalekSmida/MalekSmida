@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/malek-smida-ba58b9153/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/malek_smida/">
+<!-- <a href="https://www.instagram.com/malek_smida/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <br /><br />
 
 **Who am I:**
@@ -17,7 +17,7 @@
 - Addicted to Continuous improvement and Positivity 🚀
 - I’m MERN stack/React Native developer and I am open to learn new tech 🌱<br/>
 
-📝[Online Portfolio](https://malek-smida.netlify.app/)
+📝[Online Portfolio](https://malek-smida.netlify.app/) <br/>
 📰[Blog](https://wanderer-blog.vercel.app/)
 
 
