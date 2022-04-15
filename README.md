@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="280" height="280" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="180" height="180" />
 
 **Who am I:**
 
