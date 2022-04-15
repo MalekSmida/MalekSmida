@@ -2,36 +2,12 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="280" height="280" />
 
-<a href="https://www.linkedin.com/in/malek-smida-ba58b9153/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- <a href="https://www.instagram.com/malek_smida/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
-<br /><br />
-
 **Who am I:**
 
-- Self-motivated Software Engineer with software development life-cycle management skills 🎓
-- I believe that Planning, Learning and Leadership are Habits not just skills you use during a project ✨
-- Addicted to Continuous improvement and Positivity 🚀
-- I’m MERN stack/React Native developer and I am open to learn new tech 🌱<br/>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/malek-smida-ba58b9153/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malek.ssmida@gmail.com)](mailto:malek.ssmida@gmail.com)
 
-📝[Online Portfolio](https://malek-smida.netlify.app/) <br/>
-📰[Blog](https://wanderer-blog.vercel.app/)
+- Self-motivated, Agile minded Software Engineer
 
-
-<!--
-**MalekSmida/MalekSmida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀[Portfolio](https://malek-smida.netlify.app/) <br/>
+✨[Blog](https://wanderer-blog.vercel.app/)
