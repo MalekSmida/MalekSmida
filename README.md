@@ -1,6 +1,6 @@
 <!--## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="180" height="180" />
+<!--<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="180" height="180" />-->
 
 <!--**Who am I:**-->
 
@@ -9,5 +9,5 @@
 
 - Self-motivated, Agile minded Software Engineer
 
-🚀[Portfolio](https://malek-smida.netlify.app/) <br/>
-✨[Blog](https://wanderer-blog.vercel.app/)
+🚀[Portfolio](https://maleksmida.com/) <br/>
+✨[Blog](https://maleksmida.blog/)
