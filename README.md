@@ -1,6 +1,5 @@
 <!--## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 
-<a href="https://app.daily.dev/malek_smida" align="right" width="180"><img src="https://api.daily.dev/devcards/d469e6922d644dfeb17b9d2d2b26f898.png?r=lpd" width="400" alt="malek smida's Dev Card"/></a>
 <!--<img align="right" alt="GIF" src="https://media0.giphy.com/media/Y0gol5hgay5HMC0Vp6/giphy.gif" width="180" height="180" />-->
 
 <!--**Who am I:**-->
@@ -12,3 +11,5 @@
 
 🚀[Portfolio](https://maleksmida.com/) <br/>
 ✨[Blog](https://maleksmida.blog/)
+
+<!--<a href="https://app.daily.dev/malek_smida"><img src="https://api.daily.dev/devcards/d469e6922d644dfeb17b9d2d2b26f898.png?r=lpd" width="300" alt="malek smida's Dev Card"/></a>-->
