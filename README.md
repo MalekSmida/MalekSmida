@@ -4,7 +4,7 @@
 
 <!--**Who am I:**-->
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/malek-smida-ba58b9153/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/maleksmida/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malek.ssmida@gmail.com)](mailto:malek.ssmida@gmail.com)
 
 - Self-motivated, Agile minded Software Engineer
