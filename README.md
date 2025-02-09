@@ -11,7 +11,7 @@
 
 - Self-motivated, Agile minded Software Engineer
 
-✨[Portfolio](https://maleksmida.vercel.app/) <br/>
+✨[Portfolio](https://maleksmida.com/) <br/>
 <!--✨[Blog](https://maleksmida.blog/)-->
 
 <!--<a href="https://app.daily.dev/malek_smida"><img src="https://api.daily.dev/devcards/d469e6922d644dfeb17b9d2d2b26f898.png?r=lpd" width="300" alt="malek smida's Dev Card"/></a>-->
