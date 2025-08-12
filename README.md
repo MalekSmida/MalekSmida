@@ -4,7 +4,7 @@ I'm a **Senior Full Stack Engineer & Tech Lead** focused on building production-
 
 Currently:
 - 🚀 Founder
-- 🧪 Offering [consulting services](https://maleksmida.com/)
+- 🧪 Offering [consulting services](https://maleksmida.com/consulting)
 - 🛠️ Building Saas & exploring AI workflows
 
 ## 🧰 Tech Stack
