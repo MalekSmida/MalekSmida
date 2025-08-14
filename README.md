@@ -18,12 +18,12 @@ Currently:
 - Testing: ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 - Have some experience with: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalekSmida&show_icons=true&count_private=true&hide_title=true&theme=default" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekSmida&layout=compact&hide_title=true&langs_count=8&theme=default" height="160"/>
-</p>
+</p> -->
 
 ## 🌐 Connect with Me
 
