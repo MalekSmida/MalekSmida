@@ -1,6 +1,6 @@
 # Hi, I'm Malek
 
-I'm a **Senior Full Stack Engineer & Tech Lead** focused on building production-grade SaaS, and secure, high-performance platforms.
+I'm a **Senior Full Stack Product Engineer / Tech Lead / Founder** focused on building production-grade SaaS, and secure, high-performance platforms.
 
 Currently:
 - Founder
