@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Malek
+# Hi, I'm Malek
 
 I'm a **Senior Full Stack Engineer & Tech Lead** focused on building production-grade SaaS, and secure, high-performance platforms.
 
 Currently:
-- 🚀 Founder
-- 🧪 Offering [consulting services](https://maleksmida.com/consulting)
-- 🛠️ Building Saas & exploring AI workflows
+- Founder
+- Offering [consulting services](https://maleksmida.com/consulting)
+- Building Saas & exploring AI workflows
 
-<!-- ## 🧰 Tech Stack
+<!-- ## Tech Stack
 
 - Frontend: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - Backend: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
@@ -18,14 +18,14 @@ Currently:
 - Testing: ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 - Have some experience with: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalekSmida&show_icons=true&count_private=true&hide_title=true&theme=default" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekSmida&layout=compact&hide_title=true&langs_count=8&theme=default" height="160"/>
 </p> -->
 
-## 🌐 Connect with Me
+## Connect Me
 
 - 🌍 [Contact](https://maleksmida.com/contact)
 - 💼 [LinkedIn](https://linkedin.com/in/maleksmida)
