@@ -27,5 +27,5 @@ Currently:
 
 ## Connect Me
 
-- [Contact](https://maleksmida.com/contact)
+- [Contact](https://maleksmida.com)
 - [LinkedIn](https://linkedin.com/in/maleksmida)
