@@ -3,9 +3,8 @@
 I'm a **Senior Full Stack Product Engineer / Tech Lead / Founder** focused on building production-grade SaaS, and secure, high-performance platforms.
 
 Currently:
-- Founder
 - Offering [consulting services](https://www.bedupath.com/)
-- Building Saas & exploring AI workflows
+- Founder; building Saas & exploring AI workflows
 
 <!-- ## Tech Stack
 
