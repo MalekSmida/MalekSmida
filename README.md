@@ -3,7 +3,7 @@
 I'm a **Senior Full Stack Product Engineer / Lead / Founder** focused on building production-grade SaaS.
 
 Currently:
-- Offering [consulting services](https://www.bedupath.com/)
+- Offering [consulting services](https://www.maleksmida.com/)
 - Founder; building Saas & exploring AI workflows
 
 <!-- ## Tech Stack
@@ -26,5 +26,5 @@ Currently:
 
 ## Connect Me
 
-- [Contact](https://maleksmida.com)
+- [Contact](https://maleksmida.com/contact)
 - [LinkedIn](https://linkedin.com/in/maleksmida)
